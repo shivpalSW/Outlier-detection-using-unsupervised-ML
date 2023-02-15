@@ -78,4 +78,4 @@
 2023-01-13 23:12:16,631:INFO:Determining Trained Model
 2023-01-13 23:12:16,632:INFO:Trained Model : IsolationForest
 2023-01-13 23:12:16,633:INFO:Copying data
-2023-01-13 23:12:16,636:INFO:Transformation param set to True. Assigned clusters are attached on transformed dataset.
+2023-01-13 23:12:16,636:INFO:Transformation param set to True. Assigned clusters are attached on transformed dataset..
